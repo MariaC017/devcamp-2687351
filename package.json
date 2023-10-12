@@ -1,0 +1,22 @@
+{
+  "name": "devcamp-2687351",
+  "version": "1.0.0",
+  "description": "Proyecto para la clase de JSBackend, instructor CBO , SENA CGMLTI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server", 
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariaC017/devcamp-2687351.git"
+  },
+  "author": "MARIA CORDOBA,LEIDY PARRA",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
